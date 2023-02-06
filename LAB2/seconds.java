@@ -9,13 +9,13 @@ public class seconds {
         do {
 
             flag = true;
-            System.out.println("########### MENU ###########");
-            System.out.println("## 1. Enter the name:    ###");
-            System.out.println("## 2. Search for a name: ###");
-            System.out.println("## 3. Remove a name:    ####");
-            System.out.println("## 4. Print the name list ##");
-            System.out.println("## 5. Quit              ####");
-            System.out.println("############################");
+            System.out.println("MENU ");
+            System.out.println(" 1. Enter the name:  ");
+            System.out.println(" 2. Search for a name: ");
+            System.out.println(" 3. Remove a name:  ");
+            System.out.println(" 4. Print the name list");
+            System.out.println(" 5. Quit ");
+            System.out.println("------------------------------");
             System.out.println("Enter your choice: ");
             int inp = Integer.parseInt(sc.nextLine());
 
