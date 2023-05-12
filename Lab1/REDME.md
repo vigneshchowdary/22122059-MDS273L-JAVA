@@ -5,3 +5,33 @@ Identify if the employee belongs to the top MNC Companies (Facebook, Google, Mic
 
 Note: Your program should be neatly organized, with appropriate comments, variable names, proper input output formatting, and necessary validations.
   
+## Output:-
+  
+Enter Employee's Detail:
+Name :Vignesh
+
+Age :22
+
+Gender (Male/Female) :m
+salary :999999
+
+Company :Microsoft
+
+Position in Company :manager
+Department :Management
+State :Andhra Pradesh
+
+About this Employee
+
+The employees’ name is Vignesh and she is Female
+
+The EmployeeVignesh is from the South states of India; Preferable work location is in Andhra Pradesh
+The employee Vignesh is working in Top MNC Companies.
+
+The company is Microsoft
+  
+## ER-Diagram:-
+  ![image](https://github.com/vigneshchowdary/22122059-MDS273L-JAVA/assets/80962473/c26b7252-2087-464b-8f7e-571d737cbfdb)
+
+
+  
