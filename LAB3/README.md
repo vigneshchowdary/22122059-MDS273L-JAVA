@@ -18,3 +18,46 @@ Four functions inside your lab program class including your main class
 One static String array storing the names (note the program can store up to 1024 students)
 One two-dimensional string array storing the details of up to 1024 students
 A menu-driven main method implementing the functions and functionality
+
+## Output:-
+Menu:
+1. Enter student details
+2. Display student details
+3. Search student details
+4. Exit
+Enter an option: 1
+Enter student name: vignesh
+Enter register number: 22122059
+Enter email: vignesh@gmail.com
+Enter class: mscdsa
+Enter department: DS
+Details added successfully!
+Menu:
+1. Enter student details
+2. Display student details
+3. Search student details
+4. Exit
+
+Enter an option: 2
+Name            Register Number         Email                   Class           Department
+vignesh         22122059                vignesh@gmail.com               mscdsa          DS
+Menu:
+1. Enter student details
+2. Display student details
+3. Search student details
+4. Exit
+Enter an option: 3
+Enter student Register number: 22122059
+Name            Register Number
+vignesh         22122059
+Menu:
+1. Enter student details
+2. Display student details
+3. Search student details
+4. Exit
+Enter an option: 4
+Exiting the program...
+
+## ER-Diagram:-
+![image](https://github.com/vigneshchowdary/22122059-MDS273L-JAVA/assets/80962473/4e30af81-559f-46a0-9690-ff2aebf98c64)
+
