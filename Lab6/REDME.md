@@ -45,3 +45,80 @@ Displays the details of all students.
 Save the details of each student in a file, with the student name as filename.
 
 Note: Make use of functions to implement the menu options.
+
+## Output:-
+
+=============MENU===============
+1.ADD A STUDENT
+2.SEARCH STUDENT
+3.UPDATE THE DETAIL OF STUDENT
+4.DISPLAY ALL STUDENTS
+=================================
+Choose any one: 1
+NAME: Vignesh
+EMAIL: vignesh@gmail.com
+PHONE: 741852963
+REG. NO.: 22122059
+CLASS: mscdsa
+DEPARTMENT: ds 
+Enter new file name: file is not exist...
+The system cannot find the path specified
+
+=============MENU===============
+1.ADD A STUDENT
+2.SEARCH STUDENT
+3.UPDATE THE DETAIL OF STUDENT
+4.DISPLAY ALL STUDENTS
+=================================
+Choose any one: 2
+
+=============================SEARCH STUDENT=============================
+ENTER REG. NO.: 22122059
+====================================================================================
+NAME       EMAIL                              PHONE        REG.NO.        DEPARTMENT
+------------------------------------------------------------------------------------
+
+========================================================================================
+
+=============MENU===============
+1.ADD A STUDENT
+2.SEARCH STUDENT
+3.UPDATE THE DETAIL OF STUDENT
+4.DISPLAY ALL STUDENTS
+=================================
+Choose any one: 3
+ENTER REG.NO.:22122059
+        1.NAME
+        2.EMAIL
+        3.PHONE
+        4.REG. NO.
+        5.CLASS
+        6.DEPARTMENT
+What you want to Update:
+1
+Enter Name:vicky'
+?NAME UPDATETED !!
+
+=============MENU===============
+1.ADD A STUDENT
+2.SEARCH STUDENT
+3.UPDATE THE DETAIL OF STUDENT
+4.DISPLAY ALL STUDENTS
+=================================
+Choose any one: 4
+====================================================================================
+NAME       EMAIL                              PHONE        REG.NO.        DEPARTMENT
+------------------------------------------------------------------------------------
+1   vicky'     vignesh@gmail.com                  741852963    22122059       ds
+=========================================================================
+
+=============MENU===============
+1.ADD A STUDENT
+2.SEARCH STUDENT
+3.UPDATE THE DETAIL OF STUDENT
+4.DISPLAY ALL STUDENTS
+=================================
+
+ER-Diagram:-
+![image](https://github.com/vigneshchowdary/22122059-MDS273L-JAVA/assets/80962473/a18ca5c1-45e2-4f12-89a5-6840382b1c33)
+
